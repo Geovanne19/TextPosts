@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WQpshvCwHYsBmG70wO/bSt9nHBAm5sUudqDRuP4319c=",
+  "Source": "TextPostsApi",
+  "BasePath": "_content/TextPostsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

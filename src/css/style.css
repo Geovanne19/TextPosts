@@ -268,7 +268,7 @@ a:hover {
     height: 250px;
     background-color: var(--background-color);
     z-index: 1000;
-    border: 1px solid var(--border-color);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.507);
     border-radius: 20px;
     padding: 20px;
     align-items: center;
@@ -373,4 +373,21 @@ body.popup-active::before {
 .count-chars p span {
     color: gray;
     font-size: .8rem;
+}
+
+.feed-add-post {
+    padding: 5px 40px 16px 40px;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.feed-add-post textarea {
+    height: 2.5rem;
+    padding: .65rem;
+}
+
+.feed-add-post img{
+    height: 2.5rem;
 }
